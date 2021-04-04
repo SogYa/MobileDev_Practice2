@@ -1,0 +1,6 @@
+include ':dialog'
+include ':notificationapp'
+include ':toastapp'
+include ':multiactivity'
+include ':app'
+rootProject.name = "Practice2"
